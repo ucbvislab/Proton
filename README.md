@@ -9,4 +9,7 @@ Proton is a C++ implementation based on the research papers:
 http://vis.berkeley.edu/papers/proton
 http://vis.berkeley.edu/papers/protonPlusPlus
 
+For more information, visit the official Proton site:
+http://vis.berkeley.edu/software/proton_multitouch_framework/proton
+
 Proton is released under the BSD license. For more information view the LICENSE file.
